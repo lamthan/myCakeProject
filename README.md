@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
@@ -24,3 +25,6 @@ the setup traffic lights.
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+=======
+# myCakeProject
+>>>>>>> 50fe71969b7c0fbbbcf4aa8842de444d662f99b8
